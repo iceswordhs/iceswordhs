@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=iceswordhs&show_icons=true&theme=tokyonight">
 虽然现在并不优秀，但我已经拥有了一颗追求优秀的心！
+邮箱email: rain_huangshuai@outlook.com
